@@ -9,11 +9,11 @@ y
 h
 ed
 
-eu
-dheu
-h
-u
-i
+nie
+wiem
+gdzie
+jest
+conflict
 
 
 
