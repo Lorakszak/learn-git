@@ -9,11 +9,11 @@ y
 h
 ed
 
-eu
-Something
-actually
-wrong
-i
+nie
+wiem
+gdzie
+jest
+conflict
 
 
 
